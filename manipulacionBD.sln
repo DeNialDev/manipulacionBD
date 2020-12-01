@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "manipulacionBD", "manipulacionBD\manipulacionBD.csproj", "{FD327BF7-7EEA-474A-A97F-142D91B91785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD327BF7-7EEA-474A-A97F-142D91B91785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD327BF7-7EEA-474A-A97F-142D91B91785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD327BF7-7EEA-474A-A97F-142D91B91785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD327BF7-7EEA-474A-A97F-142D91B91785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86193E65-233B-41C8-A613-E6D4563B0FB4}
+	EndGlobalSection
+EndGlobal
